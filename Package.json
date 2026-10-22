@@ -1,5 +1,5 @@
 {
-  "name": "math-game",
+  "name": "numio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@react-oauth/google": "^0.12.1",
-    "jwt-decode": "^4.0.0",
+    "firebase": "^10.8.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
