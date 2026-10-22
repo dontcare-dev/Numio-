@@ -107,9 +107,6 @@ export default function App() {
   return (
     <>
       <style>{styles}</style>
-      <link href="https://fonts.googleapis.com/css2?family=VT323&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
-      
       <div className="app-container">
         {!user ? (
           <div className="setup-screen">
